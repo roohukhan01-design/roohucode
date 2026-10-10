@@ -1,0 +1,9 @@
+{
+  "appId": "com.roohu.code",
+  "appName": "RoohuCode",
+  "webDir": "www",
+  "backgroundColor": "#0b0e1d",
+  "android": {
+    "backgroundColor": "#0b0e1d"
+  }
+}
